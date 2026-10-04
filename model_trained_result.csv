@@ -1,0 +1,5 @@
+customer_message,predicted_intent,confidence_score
+How long does an international bank transfer usually take?,balance_not_updated_after_bank_transfer,0.1837
+Why was I charged an extra fee on my monthly statement?,extra_charge_on_statement,0.0936
+"I cannot find my debit card anywhere, think I left it at an ATM",direct_debit_payment_not_recognised,0.0621
+I forgot my 4-digit code for paying at stores,card_payment_fee_charged,0.0613
